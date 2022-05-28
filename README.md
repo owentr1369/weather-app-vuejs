@@ -1,4 +1,5 @@
 # weather-app-vuejs
+Demo:  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/97748602/170809387-e8b89133-dcb7-45c8-bd20-1abd3ac5ff70.gif)
 
 ## Project setup
 ```
