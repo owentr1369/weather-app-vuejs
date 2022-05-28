@@ -9,6 +9,16 @@
           placeholder="Search..."
         />
       </div>
+      <div class="weather-wrap">
+        <div class="location-box">
+          <div class="location">Northampton, UK</div>
+          <div class="date">Saturday, May 28, 2022</div>
+        </div>
+        <div class="weather-box">
+          <div class="temp">9°C</div>
+          <div class="weather">Rain</div>
+        </div>
+      </div>
     </main>
   </div>
 </template>
